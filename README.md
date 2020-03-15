@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-## Our Goal
+## My Goal
 
 In this app I will be diving into more Dart programming concepts and learning how to use open source Flutter packages.
 
